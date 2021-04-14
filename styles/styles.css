@@ -1,0 +1,58 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header1 {
+    text-align: center;
+    border-radius: .5em;
+    padding-top: 1%;
+}
+
+.nav1 {
+    display: inline-block;
+    color: aliceblue;
+}
+
+.img1 {
+    align-self: center;
+}
+
+.table1 {
+    margin-bottom: 10px;
+}
+
+tbody {
+    text-align: justify;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 600px;
+    width: 550px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+
+.titles {
+    text-align: center;
+}
+
+.images {
+    text-align: center;
+}
+
+.boton {
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.alert {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.experience {
+    margin-top: 10px;
+    text-align: justify;
+}
